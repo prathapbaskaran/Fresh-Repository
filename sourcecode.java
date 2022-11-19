@@ -4,7 +4,13 @@ import java.io.printer;
 import java.io.collection; 
 import java.io.scanner;
 import java.io.outputprinter;
+<<<<<<< HEAD
 import java.io.Vijay;
+||||||| df95f3e
+import java.io.Inputfiles;
+=======
+import java.io.Prathap;
+>>>>>>> number1
 public class SpiralPatternExample2
 {  
 //function to print the spiral pattern  
